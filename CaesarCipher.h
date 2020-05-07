@@ -3,6 +3,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 
 const int PL_ALPHABET_SIZE = 32;
 const int ENG_ALPHABET_SIZE = 26;

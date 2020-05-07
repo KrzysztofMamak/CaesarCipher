@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1588852814 source:c:\users\mamak\onedrive\pulpit\c++\caesarcipher\main.c
+	"CaesarCipher.h"
+
+1588852777 c:\users\mamak\onedrive\pulpit\c++\caesarcipher\caesarcipher.h
+	<stdio.h>
+	<stdlib.h>
+
